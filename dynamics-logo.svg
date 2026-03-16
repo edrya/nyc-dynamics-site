@@ -1,12 +1,29 @@
-<svg viewBox="0 0 760 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NYC Dynamics">
-    <text
-            x="0"
-            y="88"
-            font-family="Inter, Manrope, Arial, sans-serif"
-            font-size="88"
-            font-weight="800"
-            letter-spacing="-1"
-            fill="#0f2139">
-        NYC DYNAMICS
-    </text>
+<svg width="520" height="120" viewBox="0 0 520 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NYC Dynamics logo">
+
+    <title>NYC Dynamics</title>
+
+    <g fill="#000">
+
+        <text
+                x="2"
+                y="26"
+                font-family="Inter, Arial, sans-serif"
+                font-size="18"
+                font-weight="700"
+                letter-spacing="3">
+            NYC
+        </text>
+
+        <text
+                x="0"
+                y="80"
+                font-family="Inter, Arial, sans-serif"
+                font-size="52"
+                font-weight="800"
+                letter-spacing="2">
+            DYNAMICS
+        </text>
+
+    </g>
+
 </svg>

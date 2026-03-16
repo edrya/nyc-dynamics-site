@@ -102,10 +102,35 @@ body {
     align-items: center;
     gap: 10px;
 }
+.logo-link {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* slightly tighter than 10px */
+    text-decoration: none;
+}
 
 .site-logo {
-    height: 35px;
+    height: 50px; /* slightly smaller so text dominates */
     width: auto;
+    display: block;
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 0.85; /* tightens NYC + DYNAMICS */
+}
+
+.logo-text .nyc {
+    font-size: 9px;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+.logo-text .dynamics {
+    font-size: 18px; /* stronger brand weight */
+    letter-spacing: 2px;
+    font-weight: 700;
 }
 
 /* ================= SECTIONS ================= */
