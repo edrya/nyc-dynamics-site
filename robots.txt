@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nycdynamics.com/sitemap.xml
+Sitemap: https://www.nycdynamics.com/sitemap.xml
